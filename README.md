@@ -9,7 +9,7 @@ This project demonstrates how to implement a cache-aside pattern using:
 
 ## Architecture
 
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](architecture.png)
 
 ## Features
 
